@@ -10,7 +10,6 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
@@ -34,10 +33,6 @@ This is the final project for IT 155. Which confirms skils such as:
 
 * HTML
 * AWS
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
 
 
 <!-- LICENSE -->
